@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/protCom.dir/kreceiver.c.o CMakeFiles/protCom.dir/ksender.c.o CMakeFiles/protCom.dir/doPackage.c.o  -o protCom 
